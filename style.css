@@ -24,7 +24,7 @@ img {
   margin-bottom: 30px;
   width: 150px;
   border-radius: 200px;
-  border: 2px solid #2b143f;
+  border: 3px solid #2b143f;
 }
 .mail-icon {
   border: none;
@@ -57,4 +57,12 @@ img {
   border: 3px solid #2b143f;
   border-radius: 50px;
   background-color: #c1c0bb;
+}
+
+a:hover {
+  color: white;
+}
+
+a:visited {
+  color: black;
 }
